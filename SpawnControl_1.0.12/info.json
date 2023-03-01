@@ -1,0 +1,11 @@
+{
+  "name": "SpawnControl",
+  "version": "1.0.12",
+  "factorio_version": "1.1",
+  "title": "Spawn Control",
+  "author": "Fentus",
+  "contact": "support@fentusgames.com",
+  "homepage": "https://fentusgames.com/",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a button to set your spawn point."
+}
